@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="mvvm_title" parent="Theme.MaterialComponents">
+        <item name="android:textSize">35sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/mvvm_text</item>
+    </style>
+    
+    <style name="mvc_title" parent="Theme.MaterialComponents">
+        <item name="android:textColor">@color/mvc_text</item>
+        <item name="android:textSize">35sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
